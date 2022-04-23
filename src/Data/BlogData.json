@@ -1,0 +1,29 @@
+[
+	{
+	"id":"1",
+	"title": "How I Created Squid Game in Java: Red/Green Light",
+	"body": "Hey Tea lovers! Before talking about Squid Game in Java, let me ask you What do you do on a bored Sunday afternoon? Go out, have fun, or do Netflix and Chill right. Well, I did Netflix and chill. Well, not chill, but experienced a rollercoaster of emotions with the sensational Korean Drama Squid Game on Netflix. Oh Boy! What a massive hit it is. One of the best series I have seen. It has all the things and the story is gripping. Oh sorry, I am off to a different tangent. I know it’s not a movie review blog, but I can’t help but be amazed. Anyway, the thing I wanted to talk about is the games played in Squid Game. The games are very fun (Not like in the series but in real life). So I tried to replicate the same in Java. So I started with the Red Light Green Light. I just jumped on to the IDE with enthusiasm and the result was this boring code which I will shamelessly show and probably explain to you. The game is fun and I enjoyed playing it.",
+	"date": "11/20/2021",
+	"imgUrl":"https://i.ytimg.com/vi/Sq4uayz9xT4/maxresdefault.jpg",
+    "summary":"Hey Tea lovers! Before talking about Squid Game in Java, let me ask you What do you do on a bored Sunday afternoon? Go out, have fun, or do Netflix and Chill right"
+	,"link":"https://www.yoair.com/blog/squid-game-netflixs-new-phenomenon-and-why-should-you-watch-it/#:~:text=The%20man%20behind%20Squid%20Game%3A%20Hwang%20Dong%20Hyuk"
+},
+	{
+	"id":"2",
+	"title": "JUnit 5 Introduction for TDD Development in Java",
+	"body": "What is Junit 5 and How its Structured!! JUnit 5 is a major update of JUnit 5. Unlike previous versions, Junit 5 is a multi-module framework. It consists of the platform, engine, and vintage Junit modules. JUnit 5 = JUnit Platform + JUnit Jupiter + JUnit Vintage JUnit Platform sets up the JVM to run the test engines. With this, it gets flexible to create your testing framework or add 3rd party plugins. JUnit Jupiter provides the annotations for testing. We will look at the common one in a bit. The last one, JUnit Vintage, is to run older versions of JUnit, 3 and 4, on the JUnit 5 platform. Install Junit 5 in Java Project To add the Junit 5 in the project, add the following JUnit 5 dependency in the build file. I have put both maven and Gradle dependency for version 5.8.0-M1.",
+	"date": "11/21/2021",
+	"imgUrl":"https://external-preview.redd.it/uLhY1-iHPTBpleE4TE51cvFMmIdbPv3kzA3jFOlCexc.jpg?width=640&crop=smart&auto=webp&s=41ee25e8cac0708ca3c596fde86c06186dd23dc9",
+    "summary":"Hey, Tea Lovers! This post is the start of the new series of posts on TDD development in Java. This will be a quick introduction to JUnit 5"
+	,"link":"https://www.freecodecamp.org/news/an-introduction-to-test-driven-development-c4de6dce5c/"
+},
+	{
+	"id":"3",
+	"title": "6 Biggest Developer’s Mistake That Must be Avoided",
+	"body": "Beginner Developer’s Mistake. Do you know what’s the most underrated developer’s mistake for beginners is? The one which haunts beginners more than any other? It’s Overwhelming Yourself with Too Many Things. There are thousands of programming languages, hundreds of technologies to plan, run, store, or deploy the software you make. With this list, a beginner tends to confuse themselves. They think how can I learn this many things? And gets scared to start anything at all. Beginners get overwhelmed with this huge number of things. Someone said, start with C language, now you are learning C, next minute you heard about C++, now you are on to it. The very next day you read somewhere Java is popular then again you jumped to it. Someone whispered python, and here you go. It happened to me while I was in college. I was jumping to one another every semester (not like I was learning a language the whole sem). And seriously, I didn’t even know what I have tried my hands on. In the last sem struggling to prepare for the job I came to my senses somehow and stuck to Java. Jumping from one thing to another, learning too many things, at the same time won’t reach you anywhere. It will just make you more stressed.  Focus on one thing at a time, master it, then move on to the next one.  If you learn one language properly, you will learn another very easily. The learning curve at the start is steep, but up ahead, it grows exponentially. Trust me. All programming languages work or behave almost similarly, it’s just that their syntax and some inner working are different. So don’t overwhelm yourself with too many things. Be calm and take one step at a time. And avoid this beginner developer’s mistake. Developer Mistake: Hungry for Popular Things What does Hungry for Popular things even mean? It’s similar to the developer’s mistake of overwhelming with too many things. But this time it’s to leave everything for a popular one. You get curious about every popular language one after another and just forget about the previous one. It’s ok to be curious. It’s curiosity, after all, that made us, humans, distinct from other animals in this animal kingdom. The problem is not giving yourself enough time to get mastery over even one thing. You constantly switch to another one. To avoid this developer’s mistake, you shouldn’t just leave everything at the very beginning. Keep the one you have and experiment with another side by side. You will achieve both mastery and solve your curiosity.",
+	"date": "11/21/2121",
+	"imgUrl":"https://content.techgig.com/photo/74647406/5-mistakes-that-every-software-developer-must-avoid.jpg?55615",
+    "summary":"Hey, Tea Lovers! Let’s discuss what developer’s mistakes you should avoid making your life easier. From my personal experience, I would say the following 6 Mistakes are the biggest developer’s mistakes out there"
+	,"link":"https://levelup.gitconnected.com/6-mistakes-in-software-development-you-need-to-avoid-578aa4472786"
+}	
+]
